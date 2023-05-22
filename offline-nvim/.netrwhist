@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/josh/.local/share'
+let g:netrw_dirhist_7='/home/josh/.local/share/nvim'
+let g:netrw_dirhist_6='/home/josh/.local/share/nvim/site'
+let g:netrw_dirhist_5='/home/josh/Documents/neco-labs/deaths_door/src/bin'
+let g:netrw_dirhist_4='/home/josh/Documents/neco-labs/deaths_door/src/bin/libs'
+let g:netrw_dirhist_3='/home/josh/Documents/neco-labs/deaths_door/src/bin'
+let g:netrw_dirhist_2='/home/josh/.config/nvim/after/plugin'
+let g:netrw_dirhist_1='/home/josh/.config/nvim/after'
+let g:netrw_dirhist_0='/home/josh/.config/nvim/lua/ranger11danger'
+let g:netrw_dirhist_9='/home/josh/.config/nvim/lua'
